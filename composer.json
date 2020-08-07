@@ -67,9 +67,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-admin",
+          "version":"1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-admin.git",
-            "type": "git"
+            "type": "git",
+            "reference":"master"
           }
         }
       },
@@ -77,9 +79,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-shop",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-shop.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -87,9 +91,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-api",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-api.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -97,9 +103,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-attribute",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-attribute.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -107,9 +115,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-booking-product",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-booking-product.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -117,9 +127,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-cart-rule",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-cart-rule.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -127,9 +139,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-catalog-rule",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-catalog-rule.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -137,9 +151,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-category",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-category.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -147,9 +163,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-checkout",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-checkout.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -157,9 +175,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-cms",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-cms.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -167,9 +187,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-core",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -177,9 +199,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-customer",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-customer.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -187,9 +211,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-payment",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-payment.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -197,9 +223,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-paypal",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-paypal.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -207,9 +235,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-rule",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-rule.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -217,9 +247,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-sales",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-sales.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -227,9 +259,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-shipping",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-shipping.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -237,9 +271,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-theme",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-theme.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -247,9 +283,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-ui",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-ui.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -257,9 +295,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-user",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-user.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       },
@@ -267,9 +307,11 @@
         "type": "package",
         "package": {
           "name": "bagisto/laravel-velocity",
+          "version": "1.0.0",
           "source": {
             "url": "https://github.com/bagistobrasil/core-velocity.git",
-            "type": "git"
+            "type": "git",
+            "reference": "master"
           }
         }
       }
