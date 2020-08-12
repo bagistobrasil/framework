@@ -60,6 +60,7 @@
         "bagisto/laravel-shipping": "dev-master",
         "bagisto/laravel-theme": "dev-master",
         "bagisto/laravel-ui": "dev-master",
+        "bagisto/laravel-tax": "dev-master",
         "bagisto/laravel-user": "dev-master",
         "bagisto/velocity-theme": "dev-master",
         "bagisto/laravel-social-login": "dev-master",
