@@ -41,7 +41,7 @@
         "tymon/jwt-auth": "^1.0.0",
         "bagisto/laravel-admin": "dev-master",
         "bagisto/laravel-shop": "dev-master",
-        "bagisto/laravel-api": "dev-master",
+        "webkul/laravel-api": "dev-master",
         "bagisto/laravel-attribute": "dev-master",
         "bagisto/laravel-booking-product": "dev-master",
         "bagisto/laravel-cart-rule": "dev-master",
