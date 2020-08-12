@@ -58,7 +58,7 @@
         "bagisto/laravel-theme": "dev-master",
         "bagisto/laravel-ui": "dev-master",
         "bagisto/laravel-user": "dev-master",
-        "bagisto/velocity-theme ": "dev-master",
+        "bagisto/velocity-theme": "dev-master",
         "bagistobrasil/bagisto-product-social-share": "^0.1.2"
     }
   }
