@@ -43,6 +43,8 @@
         "bagisto/laravel-shop": "dev-master",
         "webkul/laravel-api": "dev-master",
         "bagisto/laravel-attribute": "dev-master",
+        "bagisto/laravel-inventory": "dev-master",
+        "bagisto/laravel-product": "dev-master",
         "bagisto/laravel-booking-product": "dev-master",
         "bagisto/laravel-cart-rule": "dev-master",
         "bagisto/laravel-catalog-rule": "dev-master",
@@ -52,6 +54,7 @@
         "bagisto/laravel-core": "dev-master",
         "bagisto/laravel-customer": "dev-master",
         "bagisto/laravel-payment": "dev-master",
+        "bagisto/laravel-paypal": "dev-master",
         "bagisto/laravel-rule": "dev-master",
         "bagisto/laravel-sales": "dev-master",
         "bagisto/laravel-shipping": "dev-master",
@@ -59,6 +62,7 @@
         "bagisto/laravel-ui": "dev-master",
         "bagisto/laravel-user": "dev-master",
         "bagisto/velocity-theme": "dev-master",
+        "bagisto/laravel-social-login": "dev-master",
         "bagistobrasil/bagisto-product-social-share": "^0.1.2"
     }
   }
