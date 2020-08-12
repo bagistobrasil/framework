@@ -60,29 +60,5 @@
         "bagisto/laravel-user": "dev-master",
         "bagisto/laravel-velocity": "dev-master",
         "bagistobrasil/bagisto-product-social-share": "^0.1.2"
-    },
-
-    "repositories": [
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-admin.git" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-shop.git" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-api.git" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-attribute.git" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-booking.git-product" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-cart.git-rule" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-catalog.git-rule" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-category.git" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-checkout.git" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-cms.git" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core.git" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-customer.git" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-payment.git" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-paypal.git" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-rule.git" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-sales.git" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-shipping.git" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-theme.git" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-ui.git" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-user.git" },
-      { "type": "git", "url": "git@github.com:bagistobrasil/core-velocity.git" }
-    ]
+    }
   }
